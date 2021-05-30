@@ -35,7 +35,7 @@
     "unique-names-generator": "^4.2.0",
     "uuid": "^8.0.0",
     "websocket-json-stream": "0.0.3",
-    "ws": "^7.2.5"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "ts-node": "^8.10.1",
